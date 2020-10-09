@@ -1,0 +1,61 @@
+order in shinyApp;abbrev. In shinyApp;organism;abbrev. in mbgd
+1;Synechocystis 6803;Synechocystis sp. PCC 6803 (user genome);
+2;Synechocystis;Synechocystis sp. PCC 6803;syn
+2;Synechocystis;Synechocystis sp. PCC 6714;syj
+3;Cyanothece;Cyanothece sp. PCC 7822;cyj
+3;Cyanothece;Cyanothece sp. PCC 7425;cyn
+3;Cyanothece;Cyanothece sp. ATCC 51142;cyt
+4;M. aeruginosa;Microcystis aeruginosa NIES-843;mar
+4;M. aeruginosa;Microcystis aeruginosa NIES-2549;gm04335
+5;Candidatus atelocyanobacterium;Cyanobacterium UCYN-A ;cyu
+6;D. salina;Dactylococcopsis salina PCC 8305;dsl
+7;Halothece;Halothece sp. PCC 7418;hao
+8;C. gracile;Cyanobium gracile PCC 6307;cgc
+9;Pleurocapsa;Pleurocapsa sp. PCC 7327;plp
+10;S. cyanosphaera;Stanieria cyanosphaera PCC 7437;scs
+11;Leptolyngbya;Leptolyngbya sp. PCC 7376 ;lep
+12;Geitlerinema;Geitlerinema sp. PCC 7407;gei
+13;Fischerella;Fischerella sp. NIES-3754 ;gm05903
+14;Pseudanabaena;Pseudanabaena sp. PCC 7367;pseu
+15;Trichodesmium;Trichodesmium erythraeum IMS101;ter
+16;Oscillatoria;Oscillatoria acuminata PCC 6304;oac
+16;Oscillatoria;Oscillatoria nigro-viridis PCC 7112;oni
+17;Cyanobacterium;Cyanobacterium stanieri PCC 7202;csn
+17;Cyanobacterium;Cyanobacterium aponinum PCC 10605;can
+18;Arthrospira;Arthrospira sp. PCC 8005;gm03723
+19;Gloeocapsa;Gloeocapsa sp. PCC 7428;glp
+20;Microcoleus;Microcoleus sp. PCC 7113;mic
+21;C. epipsammum;Crinalium epipsammum PCC 9333;cep
+22;C. minutus;Chamaesiphon minutus PCC 6605;cmp
+23;Calothrix;Calothrix sp. PCC 7507;calo
+23;Calothrix;Calothrix sp. 336/3;gm03953
+24;Rivularia;Rivularia sp. PCC 7116;riv
+25;Nostoc;Nostoc sp. PCC 7524;nop
+25;Nostoc;Nostoc punctiforme PCC 73102;npu
+26;Trichormus;Nostoc azollae 0708;naz
+28;Anabaena;Nostoc sp. PCC 7120;ana
+28;Anabaena;Anabaena variabilis ATCC 29413;ava
+28;Anabaena;Anabaena sp. 90;anb
+28;Anabaena;Anabaena cylindrica PCC 7122;acy
+28;N. spumigena;Nodularia spumigena CCY9414;gm03141
+29;C. stagnale;Cylindrospermum stagnale PCC 7417;csg
+30;C. thermalis;Chroococcidiopsis thermalis PCC 7203;cthe
+31;Thermosynechococcus;Thermosynechococcus sp. NK55a NK55;thn
+31;Thermosynechococcus;Thermosynechococcus elongatus BP-1;tel
+32;A. marina;Acaryochloris marina MBIC11017;amr
+33;Synechococcus;Synechococcus sp. WH 7803;syx
+33;Synechococcus;"Synechococcus sp. PCC 7002; ATCC 27264";syp
+33;Synechococcus;Synechococcus sp. JA-3-3Ab;cya
+33;Synechococcus;Synechococcus sp. CC9605;syd
+33;Synechococcus;Synechococcus elongatus PCC 7942;syf
+34;Prochlorococcus;Prochlorococcus marinus subsp. pastoris MED4;pmm
+34;Prochlorococcus;Prochlorococcus marinus NATL2A;pmn
+34;Prochlorococcus;Prochlorococcus marinus MIT9313;pmt
+34;Prochlorococcus;"Prochlorococcus marinus CCMP1375; SS120";pma
+34;Prochlorococcus;Prochlorococcus marinus AS9601;pmb
+35;Gloeobacter;Gloeobacter kilaueensis JS1;glj
+35;Gloeobacter;Gloeobacter violaceus PCC 7421;gvi
+36;unclassified;cyanobacterium endosymbiont of Epithemia turgida isolate EtS ;gm04090
+37;A. thaliana;Arabidopsis thaliana ;ath
+38;S. enterica;Salmonella enterica subsp. enterica serovar Typhimurium SL1344;sey
+39;E. coli;Escherichia coli K-12 MG1655;eco
