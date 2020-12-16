@@ -98,13 +98,26 @@ ui <- navbarPage("Grad-Seq Analysis of Synechocystis sp. PCC 6803", id="nav",
                  tabPanel("Introduction",
                           sidebarLayout( position = "left",
                                          sidebarPanel(
-                                            strong("Abstract", style = "font-family: 'times';font-size: 32pt"),
-                                            p("add Abstract", style = "font-family: 'times'; font-size: 16pt"),
-                                            br(),
                                             p("If you are using this Shiny App for your own research please cite:", style = "font-family: 'times'; font-size: 16pt"),
-                                            p("add", span(em("Citation"), style = "font-family: 'courier'; color:blue"), style = "font-family: 'times'; font-size: 16pt"),
-                                            p("...and visit our", span(a("Cyanolab Homepage", href="http://www.cyanolab.de/")), "for the latest update of our research.", style = "font-family: 'times'; font-size: 16pt")
-                                         ),                             
+                                           br(),  
+                                           p("Matthias Riediger, Philipp Spaet, Raphael Bilger, Karsten Voigt, Boris Macek, Wolfgang R Hess,
+                                              Analysis of a Photosynthetic Cyanobacterium Rich in Internal Membrane Systems via Gradient Profiling by Sequencing (Grad-seq), The Plant Cell, koaa017, ", 
+                                             span(a("https://doi.org/10.1093/plcell/koaa017", href="https://doi.org/10.1093/plcell/koaa017")), style = "font-family: 'times'; font-size: 16pt"),
+                                           br(),
+                                           p("and visit our", span(a("Cyanolab Homepage", href="http://www.cyanolab.de/")), "for the latest updates of our research.", style = "font-family: 'times'; font-size: 16pt"),
+                                           br(),
+                                           br(),
+                                           strong("Abstract", style = "font-family: 'times';font-size: 32pt"),
+                                            p("Although regulatory small RNAs have been reported in photosynthetic cyanobacteria, the lack of clear RNA chaperones involved in their regulation 
+                                              poses a conundrum. Here, we analyzed the full complement of cellular RNAs and proteins using gradient profiling by sequencing (Grad-seq) in",  
+                                              em("Synechocystis"),"6803. Complexes with overlapping subunits such as the CpcG1-type versus the CpcL-type phycobilisomes or the PsaK1 versus PsaK2 
+                                              photosystem I pre(complexes) could be distinguished, supporting the high quality of this approach. Clustering of the in-gradient distribution 
+                                              profiles followed by several additional criteria yielded a short list of potential RNA chaperones that include a YlxR homolog and a cyanobacterial 
+                                              homolog of the KhpA/B complex. The data suggest previously undetected complexes between accessory proteins and CRISPR-Cas systems, such as a Csx1-Csm6 
+                                              ribonucleolytic defense complex. Moreover, the exclusive association of either RpoZ or 6S RNA with the core RNA polymerase complex and the existence of 
+                                              a reservoir of inactive sigma-antisigma complexes is suggested. The", em("Synechocystis"),"Grad-seq resource provides a comprehensive resource for the 
+                                              unctional assignment of RNA-protein complexes and multisubunit protein complexes in a photosynthetic organism.", style = "font-family: 'times'; font-size: 16pt")
+                                          ),                             
                                           mainPanel(
                                             strong("Features", style = "font-family: 'times';font-size: 32pt"),
                                             br(),
